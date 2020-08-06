@@ -1,0 +1,72 @@
+[
+  {
+    "id":"0",
+    "player": "x",
+    "opponent": "o",
+    "isUnlocked": "true",
+    "isSelected":"true"
+  },
+  { 
+    "id":"1",
+    "player": "rocket",
+    "opponent": "helicopter",
+    "isUnlocked": "false",
+    "isSelected":"false"
+  },
+  {
+    "id":"2",
+    "player": "cat",
+    "opponent": "dog",
+    "isUnlocked": "false",
+    "isSelected":"false"
+  },
+  {
+    "id":"3",
+    "player": "boy",
+    "opponent": "girl",
+    "isUnlocked": "false",
+    "isSelected":"false"
+  },
+  {
+    "id":"4",
+    "player": "gift",
+    "opponent": "jack_o_lantern",
+    "isUnlocked": "false",
+    "isSelected":"false"
+  },
+  {
+    "id":"5",
+    "player": "wolf",
+    "opponent": "ram",
+    "isUnlocked": "false",
+    "isSelected":"false"
+  },
+  {
+    "id":"6",
+    "player": "racing_motorcycle",
+    "opponent": "racing_car",
+    "isUnlocked": "false",
+    "isSelected":"false"
+  },
+  {
+    "id":"7",
+    "player": "turtle",
+    "opponent": "rabbit",
+    "isUnlocked": "false",
+    "isSelected":"false"
+  },
+  {
+    "id":"8",
+    "player": "pushpin",
+    "opponent": "balloon",
+    "isUnlocked": "false",
+    "isSelected":"false"
+  },
+  {
+    "id":"9",
+    "player": "snake",
+    "opponent": "rat",
+    "isUnlocked": "false",
+    "isSelected":"false"
+  }
+]

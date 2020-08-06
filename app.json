@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Tic Tac Toe",
+    "slug": "tictactoe",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.2.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.mecitdeniz.tictactoe",
+      "versionCode": 3,
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-4568717536332670~9732667327"
+      }
+    }
+  }
+}
